@@ -1,0 +1,17 @@
+#dvc
+dvc
+dvc[gdrive]
+dvc[s3]
+
+
+#other importatnt lib
+pandas
+scikit-learn
+
+#testing
+pytest
+tox
+flake8
+
+#websapp
+flask
